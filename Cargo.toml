@@ -1,0 +1,7 @@
+[package]
+name = "nightingaleos"
+# author = "izzy_eth"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
