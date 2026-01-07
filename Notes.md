@@ -1,0 +1,5 @@
+- Added a bare metal target(embedded ARM):
+```bash
+rustup target add thumbv7em-none-eabihf
+cargo build --target thumbv7em-none-eabihf
+```
